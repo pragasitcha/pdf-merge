@@ -7,14 +7,10 @@ Just an lazy python script for merge pdf in subfolder
 `
 
 ## Project Structure.
-- Output PDF page secuence use name ordering in Input folder.
-    .
-    ├── pdf-merge.py
-    │   ├── input
-    │   │   ├── 1_first.pdf
-    │   │   ├── 2_Second.pdf
-    │   │   └── 3_Third.pdf
-    └── ...
+- Output PDF page sequences use name ordering in Input folder.
+ 
+![image](https://user-images.githubusercontent.com/26761030/118041453-00d30980-b39d-11eb-8e86-0a8b7c1141c7.png)
+
 
 ### Specialthanks and Credit 
 Original source code from : https://caendkoelsch.wordpress.com/2019/05/10/merging-multiple-pdfs-into-a-single-pdf/ 
